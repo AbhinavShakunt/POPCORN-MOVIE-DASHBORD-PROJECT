@@ -1,6 +1,7 @@
 # POPCORN-MOVIE-DASHBORD-PROJECT
 
-![PowerBi Dashboard Screenshot](https://drive.google.com/file/d/1njopvQVR-4da4M4B-WObMoxnUlUTXb2G/view?usp=drive_link)
+![PowerBi Dashboard Screenshot](![Web capture_6-9-2023_231333_](https://github.com/AbhinavShakunt/POPCORN-MOVIE-DASHBORD-PROJECT/assets/89520262/3fff5238-5a76-4d61-8297-46d1e2119844)
+)
 
 ## Overview
 
